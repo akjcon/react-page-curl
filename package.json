@@ -46,10 +46,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackconsenstein/react-page-curl"
+    "url": "https://github.com/akjcon/react-page-curl"
   },
-  "homepage": "https://github.com/jackconsenstein/react-page-curl#readme",
+  "homepage": "https://github.com/akjcon/react-page-curl#readme",
   "bugs": {
-    "url": "https://github.com/jackconsenstein/react-page-curl/issues"
+    "url": "https://github.com/akjcon/react-page-curl/issues"
   }
 }
